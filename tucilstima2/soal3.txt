@@ -1,0 +1,8 @@
+Machine Learning, AI, Algoritma Struktur Data.
+AI, Logika Komputasional, Teori Bahasa Formal dan Otomata, Probabilitas Statistika, Strategi Algoritma.
+Probabilitas Statistika, Matematika Diskrit.
+Strategi Algoritma.
+Matematika Diskrit.
+Algoritma Struktur Data.
+Logika Komputasional.
+Teori Bahasa Formal dan Otomata.
