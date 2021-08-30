@@ -1,14 +1,15 @@
 # Cryptarithmetic Puzzle Solver
 #### Deskripsi singkat
-Program yang dibuat adalah solver persoalan cryptarithmetic dengan metode brute force. Program membaca input dari file txt dan mencoba menemukan solusinya melalui metode brute force. Jika menemukan suatu solusi, maka akan dituliskan ke layar melalui fungsi print.
+Program yang dibuat adalah solver persoalan cryptarithmetic dengan metode brute force. Program membaca input dari file txt dan mencoba menemukan solusinya melalui metode brute force. Jika menemukan suatu solusi, maka akan dituliskan ke layar melalui fungsi print. Program ini dibuat untuk tugas kecil 1 mata kuliah Strategi Algoritma.
 #### Requirement
 Python 3.8 (dicoba di versi ini, versi python lain mungkin berbeda hasilnya)
 #### Cara menggunakan
-Run program tucilstima1.py yang berada di folder src.
+Run program solver.py yang berada di folder src.
 
 Run dapat dilakukan dengan command:
 
-python Tucil1_13519096/src/tucilstima1.py atau command2 lainnya.
+`python src/solver.py`
+
 #### Author
 Nama: Girvin Junod
 
